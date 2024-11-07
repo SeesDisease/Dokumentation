@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Red Blowfish</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Red Blowfish</description>
+    <title>Posts on SeesDisease</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on SeesDisease</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Red Blowfish</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>/posts/post-lite-one/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Das Modell im Überblick</title>
+      <link>http://localhost:1313/posts/network/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post-lite-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-one/cover.png" />
+      <guid>http://localhost:1313/posts/network/</guid>
+      <description>Das Eff-ResSepUTransNet, ein Hybridmodel, das CNNs und Transformer in medizinisches Segmentationsmodell verschmilzt.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/network/cover.png" />
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>/posts/post-lite-three/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Der KI-gestützte Autofokus</title>
+      <link>http://localhost:1313/posts/ai-autofocus/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post-lite-three/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-three/cover.png" />
+      <guid>http://localhost:1313/posts/ai-autofocus/</guid>
+      <description>Ein kluger Autofokus, der den momentanen Fokus klassifiziert und so den besten Fokuspunkt herausfindet.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ai-autofocus/cover.png" />
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>/posts/post-lite-two/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Die Interaktive Segmentation im Überblick</title>
+      <link>http://localhost:1313/posts/interactive/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post-lite-two/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-two/cover.png" />
+      <guid>http://localhost:1313/posts/interactive/</guid>
+      <description>Mittels Punkten zu einer vollen und präzisen Segmentation von Zellkernen und Zellstrukturen.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/interactive/cover.png" />
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>/posts/post-lite-four/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      <title>Uncertainty-Guidance - Markierung unsicherer Bereiche</title>
+      <link>http://localhost:1313/posts/uncertainty/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post-lite-four/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-four/cover.png" />
+      <guid>http://localhost:1313/posts/uncertainty/</guid>
+      <description>Einfachere und bessere Markierung durch das Aufzeigen von Unischerheiten innerhalb des Modells.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/uncertainty/cover.png" />
     </item>
     
   </channel>
