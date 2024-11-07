@@ -1,1 +1,0 @@
-# BWKI Dokumentation für SeesDisease
