@@ -15,7 +15,7 @@ title = "SeesDisease"
 [params.author]
   name = "Lorenz Rutkevich"
   image = "img/avatar.png"
-  headline = ""
+  headline = "SeesDisease"
   bio = "Kluge Mikroskopie"
    links = [
      { link = "https://lorenz-rutkevich.info/" },

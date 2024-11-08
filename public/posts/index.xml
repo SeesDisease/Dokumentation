@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/ai-autofocus/</guid>
       <description>Ein kluger Autofokus, der den momentanen Fokus klassifiziert und so den besten Fokuspunkt herausfindet.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ai-autofocus/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ai-autofocus/cover.jpg" />
     </item>
     
     <item>
